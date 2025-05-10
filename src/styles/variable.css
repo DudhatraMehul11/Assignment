@@ -1,0 +1,17 @@
+:root {
+  --primary-color: #4a90e2;
+  --secondary-color: #50e3c2;
+  --text-color: #333333;
+  --background-color: #ffffff;
+  --border-color: #e6e6e6;
+  --error-color: #e74c3c;
+  --link-color: #0e7490;
+  --button-disabled: #ccc;
+  --button-disabled-bg: #0891b2;
+  --button-bg: #06b6d4;
+  --price-text: #1a1a1a;
+  --title-text: #222;
+  --meta-text: #555;
+  --description-text: #444;
+  --button-hover-bg: #357abd;
+}
